@@ -9,6 +9,6 @@ https://github.com/magento/magento2/blob/cdf370b88900b2f8c00bda21de5647b99fd458b
 
 FIX DJANGO 3.5.2 and PYTHON 3.7.1
 
-2) widgets.py:
+1) widgets.py:
 
 Fix for Django CMS 3.5.2 configured in DJANGO 3.5.x and PYTHON 3.7.1
