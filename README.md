@@ -12,3 +12,9 @@ FIX DJANGO 3.5.2 and PYTHON 3.7.1
 1) widgets.py:
 
 Fix for Django CMS 3.5.2 configured in DJANGO 1.11.x and PYTHON 3.7.1
+
+DRUPAL 8.x
+
+1) remove_generator.module
+
+Remove Generator in Drupal 8.x
