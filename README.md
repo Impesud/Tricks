@@ -18,3 +18,7 @@ DRUPAL 8.x
 1) remove_generator.module
 
 Remove Generator in Drupal 8.x
+
+2) simplelogin.module
+
+Fix for  Warning: array_flip(): Can only flip STRING and INTEGER values! when the module "Simple Login" upload a default image
